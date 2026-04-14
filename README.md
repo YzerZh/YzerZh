@@ -23,6 +23,7 @@ I am a generalist with a deep curiosity across the entire tech spectrum:
 <p align="left">
      <img src="https://skillicons.dev/icons?i=python,cs,matlab,php,mysql,git,github,githubactions" />
 </p>
+
 ---
 
 ### 📫 Let's Connect
