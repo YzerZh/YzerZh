@@ -21,9 +21,7 @@ I am a generalist with a deep curiosity across the entire tech spectrum:
 ### 💻 Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,matlab,php,mysql,git,github,githubactions" />
-  </a>
+     <img src="https://skillicons.dev/icons?i=python,cs,matlab,php,mysql,git,github,githubactions" />
 </p>
 ---
 
